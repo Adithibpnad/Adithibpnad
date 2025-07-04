@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **adithibappanad8@gmail.com**
 
+- - 🌐 Portfolio: [adithi-bappanad-portfolio.lovable.app](https://adithi-bappanad-portfolio.lovable.app)
+
 - ⚡ Fun fact **I think I’m funny... my code sometimes disagrees.😆**
 
 <h3 align="left">Connect with me:</h3>
